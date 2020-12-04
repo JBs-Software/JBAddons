@@ -7,6 +7,7 @@ Requirements:
 - Knowlege about C#
 
 ### Added Namespaces
-- JBConsole - Adds functionly to the Console
-- JBIni - Adds the abbility to read and use, .ini files
+- JBConsole - Adds functionality to the Console
+- JBIni - Adds the abbility to read and use, .ini files, Requires: System.Windows.Forms.
+- JBSpeak - Adds functionality for the computer the speak, Requires: System.Speech.
 - JBMain - Somethings about JBAddons
