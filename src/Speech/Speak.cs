@@ -30,9 +30,13 @@ namespace JBAddons.Speech
         /// </summary>
         public static int Vol { get; set; }
 
-        public static void SpeakFromFile(string file)
+        /// <summary>
+        /// Simple TTS, read a text and speaks it
+        /// </summary>
+        /// <param name="file">The file that you want to be read</param>
+        public static void SpeakFromFile(string file, Encoding encoding)
         {
-            string fileContents = File.ReadAllText(file, Encoding.UTF8);
+            string fileContents = File.ReadAllText(file, encoding);
             if (Vol != 0 && Rate != 0 && Age != VoiceAge.NotSet && Gender != VoiceGender.NotSet)
             {
                 synth.Volume = Vol;
