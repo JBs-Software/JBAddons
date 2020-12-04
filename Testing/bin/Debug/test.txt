@@ -1,2 +1,2 @@
 Hello im a computer.
-Helli im a new-line.
+Hello im a new-line.
