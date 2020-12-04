@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using JBAddons.Ini;
+using JBAddons.Speech;
 using System.Windows.Forms;
 
 namespace Testing1
@@ -12,11 +13,7 @@ namespace Testing1
     {
         static void Main(string[] args)
         {
-            JBIniFile ini = new JBIniFile("test.ini");
-
-            Keys key = ini.ReadKey("Key", "Keys");
-
-            Console.WriteLine("Key is " + key.ToString());
+            JBSpeak.SpeakFromFile("test.txt");
         }
     }
 }
