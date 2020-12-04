@@ -1,0 +1,6 @@
+C:\Users\wayne\source\repos\JBAddons\src\bin\Release\JBAddons.dll
+C:\Users\wayne\source\repos\JBAddons\src\bin\Release\JBAddons.pdb
+C:\Users\wayne\source\repos\JBAddons\src\obj\Release\JBAddons.csprojAssemblyReference.cache
+C:\Users\wayne\source\repos\JBAddons\src\obj\Release\JBAddons.csproj.CoreCompileInputs.cache
+C:\Users\wayne\source\repos\JBAddons\src\obj\Release\JBAddons.dll
+C:\Users\wayne\source\repos\JBAddons\src\obj\Release\JBAddons.pdb

@@ -1,0 +1,10 @@
+C:\Users\wayne\source\repos\JBAddons\Testing1\bin\Debug\Testing1.exe.config
+C:\Users\wayne\source\repos\JBAddons\Testing1\bin\Debug\Testing1.exe
+C:\Users\wayne\source\repos\JBAddons\Testing1\bin\Debug\Testing1.pdb
+C:\Users\wayne\source\repos\JBAddons\Testing1\bin\Debug\JBAddons.dll
+C:\Users\wayne\source\repos\JBAddons\Testing1\bin\Debug\JBAddons.pdb
+C:\Users\wayne\source\repos\JBAddons\Testing1\obj\Debug\Testing1.csprojAssemblyReference.cache
+C:\Users\wayne\source\repos\JBAddons\Testing1\obj\Debug\Testing1.csproj.CoreCompileInputs.cache
+C:\Users\wayne\source\repos\JBAddons\Testing1\obj\Debug\Testing1.csproj.CopyComplete
+C:\Users\wayne\source\repos\JBAddons\Testing1\obj\Debug\Testing1.exe
+C:\Users\wayne\source\repos\JBAddons\Testing1\obj\Debug\Testing1.pdb

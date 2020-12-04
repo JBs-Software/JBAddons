@@ -1,0 +1,12 @@
+C:\Users\wayne\source\repos\JBAddons\JBAddons\bin\Debug\JBAddons.dll
+C:\Users\wayne\source\repos\JBAddons\JBAddons\bin\Debug\JBAddons.pdb
+C:\Users\wayne\source\repos\JBAddons\JBAddons\obj\Debug\JBAddons.csprojAssemblyReference.cache
+C:\Users\wayne\source\repos\JBAddons\JBAddons\obj\Debug\JBAddons.csproj.CoreCompileInputs.cache
+C:\Users\wayne\source\repos\JBAddons\JBAddons\obj\Debug\JBAddons.dll
+C:\Users\wayne\source\repos\JBAddons\JBAddons\obj\Debug\JBAddons.pdb
+C:\Users\wayne\source\repos\JBAddons\src\bin\Debug\JBAddons.dll
+C:\Users\wayne\source\repos\JBAddons\src\bin\Debug\JBAddons.pdb
+C:\Users\wayne\source\repos\JBAddons\src\obj\Debug\JBAddons.csprojAssemblyReference.cache
+C:\Users\wayne\source\repos\JBAddons\src\obj\Debug\JBAddons.csproj.CoreCompileInputs.cache
+C:\Users\wayne\source\repos\JBAddons\src\obj\Debug\JBAddons.dll
+C:\Users\wayne\source\repos\JBAddons\src\obj\Debug\JBAddons.pdb
