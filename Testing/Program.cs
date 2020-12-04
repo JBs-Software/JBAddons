@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading;
 using JBAddons.Ini;
-using JBAddons.Files;
 using JBAddons.Speech;
 using System.Windows.Forms;
 
@@ -14,11 +13,10 @@ namespace Testing1
     {
         static void Main(string[] args)
         {
-            TextFile.CreateFile("google.txt");
-            Thread.Sleep(100);
-            TextFile.AppendToFile("google.txt", "Hello World");
-            Thread.Sleep(300);
-            JBSpeak.SpeakFromFile("google.txt", Encoding.UTF8);
+            JBAddons.JBXml xml1 = new JBAddons.JBXml("C:/Users/wayne/source/repos/JBAddons/Testing/bin/Debug/test.xml");
+            Console.WriteLine(xml1.ReadNode("IsGay"));
+            Console.WriteLine(xml1.ReadNode("Times"));
+            Console.WriteLine(xml1.ReadNodeInt("Times") + 4);
         }
     }
 }

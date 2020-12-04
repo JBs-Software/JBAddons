@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace JBAddons.Files
+namespace JBAddons
 {
     public class TextFile
     {
