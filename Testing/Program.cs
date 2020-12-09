@@ -17,6 +17,8 @@ namespace Testing1
             Console.WriteLine(xml1.ReadNode("IsGay"));
             Console.WriteLine(xml1.ReadNode("Times"));
             Console.WriteLine(xml1.ReadNodeInt("Times") + 4);
+            Console.WriteLine(xml1.ReadAttrubiteByNode("IsGay", "id", 1));
+            Console.WriteLine(xml1.ReadNode("IsGay"));
         }
     }
 }

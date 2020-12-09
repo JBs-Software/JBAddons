@@ -1,4 +1,5 @@
 <Test>
-	<IsGay>false</IsGay>
-	<Times>4</Times>
+	<IsGay name="Bryce" id="google">false</IsGay>
+	<Times name="Hello">4</Times>
+	<IsGay name="Jakob" id="google">true</IsGay>
 </Test>

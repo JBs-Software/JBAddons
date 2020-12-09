@@ -35,14 +35,17 @@ namespace JBAddons
             return "";
         }
 
-        public string ReadAttrubite(string attrubite, int index)
+        public string ReadAttrubiteByNode(string node, string attrubite, int index)
         {
             foreach(XmlNode child in xml.ChildNodes)
             {
-                string childAtt = child.Attributes[index].Value;
-                if(childAtt==attrubite)
+                if (child.Name == node)
                 {
-                    return childAtt;
+                    string nodeAtt = child.Attributes[index].Name;
+                    if (nodeAtt==attrubite)
+                    {
+                        return child.Attributes[index].InnerText;
+                    }
                 }
             }
             return "";
